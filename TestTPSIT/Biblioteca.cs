@@ -8,5 +8,10 @@ namespace TestTPSIT
 {
     internal class Biblioteca
     {
+        public string nomeB;
+        public string indirizzo;
+        public string oraApert;
+        public string oraChius;
+
     }
 }

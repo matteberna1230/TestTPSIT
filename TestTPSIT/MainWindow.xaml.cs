@@ -29,5 +29,10 @@ namespace TestTPSIT
         {
 
         }
+
+        private void btnCercaLibro_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }
