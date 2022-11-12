@@ -24,5 +24,10 @@ namespace TestTPSIT
         {
             InitializeComponent();
         }
+
+        private void btnCreaLibro_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }
