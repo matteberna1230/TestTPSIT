@@ -11,6 +11,7 @@ namespace TestTPSIT
     /// <summary>
     /// Interaction logic for App.xaml
     /// </summary>
+    ///Commento aggiunto da GITHUB
     public partial class App : Application
     {
     }
